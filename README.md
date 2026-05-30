@@ -48,5 +48,4 @@ git init
 git add .
 git commit -m "Add Slack bot source files"
 git branch -M main
-git remote add origin https://github.com/reliantsupportteam-design/slack-bot.git
-git push -u origin main
+git remote add origin https://github.com/reliantsupportteam-design/slack-bot
