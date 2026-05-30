@@ -1,6 +1,6 @@
 #Slack Bot
 
-https://slack.dev/bolt-js that connects via Socket Mode and responds to mentions.
+https://slack-bot-js that connects via Socket Mode and responds to mentions.
 
 ---
 
