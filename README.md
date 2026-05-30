@@ -1,1 +1,1 @@
- https://github.com/reliantsupportteam-design/slack-bot.git cd slack-bot
+ https://github.com/reliantsupportteam-design/slack-bot.git
