@@ -19,3 +19,18 @@
     "restartPolicyMaxRetries": 10
   }
 }
+{
+  "message": "Node.js v18.20.8",
+  "severity": "error",
+  "attributes": {
+    "level": "error"
+  },
+  "tags": {
+    "project": "d6a3bb5d-551d-4461-ad9c-002a733dde0d",
+    "environment": "80668e64-1e51-4282-a6c6-e757b918a79d",
+    "service": "88be70dd-bb22-4283-bc03-4a7d77811088",
+    "deployment": "afb0494b-76e8-4ffe-a002-1eb5503913e3",
+    "replica": "f74c31b7-9c29-48f7-ac1d-ef7cf266c25d"
+  },
+  "timestamp": "2026-05-30T14:36:34.364602364Z"
+}
