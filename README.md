@@ -10,7 +10,7 @@ slack-bot/
 ├── Procfile
 └── README.md
 
-const { App } = require('@slack/bolt');
+const { App } = require('@slack/bot');
 
 const app = new App({
   token: process.env.SLACK_BOT_TOKEN,
@@ -35,7 +35,7 @@ app.event('app_mention', async ({ event, say }) => {
     "start": "node app.js"
   },
   "dependencies": {
-    "@slack/bolt": "^3.17.0"
+    "@slack/bot": "^3.17.0"
   },
   "engines": {
     "node": "18.x"
